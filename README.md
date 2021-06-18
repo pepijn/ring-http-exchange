@@ -21,7 +21,7 @@ HTTP only for now. Untested.
     {:status 200
      :headers {"Content-Type" "text/plain"}
      :body "Hello World"}
-  {:port 8080})
+  {:port 8080}))
 ```
 
 The options are a subset of the ones support by
